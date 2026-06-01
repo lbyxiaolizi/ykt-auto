@@ -1,0 +1,26 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# OS/IDE files
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Yuketang runtime/temporary data
+data/font.ttf
+data/font_mapping.json
+data/decrypted_problems.json
+data/exercise_response.json
+batch_run.js
